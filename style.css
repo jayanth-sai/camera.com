@@ -1,0 +1,19 @@
+.heading{
+    width: 50%;
+    font-size: 25px;
+    margin-top: 0px;
+    box-shadow: 5px  5px 5px grey;
+    height: 100px;
+}
+
+canvas{
+   
+    border:5px solid rgb(32, 31, 31);
+    border-radius:20px;
+    box-shadow:5px 5px 5px grey;
+    margin-top: 50px;
+ }
+
+body{
+    background-size: 100%;
+}
